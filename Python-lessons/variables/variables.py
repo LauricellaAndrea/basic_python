@@ -1,3 +1,4 @@
+# il print visualizza il risultato nel terminal
 #Numbers
 my_age = 18
 print(my_age + 2)
